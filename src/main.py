@@ -1,5 +1,5 @@
 from transformers import AutoModel, AutoTokenizer
-from src.utils.helpers import json_parser
+from utils.helpers import json_parser
 
 
 class BenFeroGenerator:

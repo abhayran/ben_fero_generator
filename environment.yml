@@ -1,0 +1,10 @@
+name: motivasyon
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - cudatoolkit=10.2
+  - pytorch=1.10.2
+  - tqdm=4.62.3
+  - jupyter=1.0.0
+  - transformers=4.15.0
