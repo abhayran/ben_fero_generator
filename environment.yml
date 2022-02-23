@@ -1,6 +1,7 @@
 name: motivasyon
 channels:
   - pytorch
+  - anaconda
   - conda-forge
 dependencies:
   - cudatoolkit=10.2
@@ -8,3 +9,5 @@ dependencies:
   - tqdm=4.62.3
   - jupyter=1.0.0
   - transformers=4.15.0
+  - beautifulsoup4=4.9.3
+  - pandas=1.4.1
